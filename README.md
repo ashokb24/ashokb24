@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Public Cloud AWS, Python.
 - 🤔 I’m looking for help with Docker, Kubernetes
 - 💬 Ask me about AWS boto libraries, Twitter Integration, Accuweather APIs etc.
-- 📫 How to reach me: Twitter[MyTwitterAccount](https://twitter.com/ABhadrappa)
+- 📫 How to reach me: [Twitter - @ABhadrappa](https://twitter.com/ABhadrappa), [LinkedIn - Ashok Bhadrappa](linkedin.com/in/ashok-bhadrappa-72baa818)
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I see lot of fun videos.
 
